@@ -2,7 +2,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Brandbe+Sans+Serif+&weight=800&size=35&duration=3000&pause=500&color=30A14E&multiline=true&width=650&height=140&lines=%24+whoami;Muhammad+Ibrahim+Shoeb)](https://git.io/typing-svg)
 
 
-## **About Me**
 🎓 **Software Engineering Student @ BME** | **Intern @ Wizz Air** | **Mentor @ HÖOK**   
 🏆 **Hackathon Winner** – Most Sustainable Idea @ **Innovation Week & Hackathon**  
 
