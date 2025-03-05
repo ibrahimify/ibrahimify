@@ -3,13 +3,13 @@
 
 <!-- Social Links -->
 <p align="left">
-  <a href="https://your-portfolio.com">
-    <img src="https://img.shields.io/badge/-Portfolio-000?style=flat&logo=vercel&logoColor=white">
-  </a>
-  <a href="https://www.linkedin.com/in/muhamshoeb/">
+  <a href="https://ibrahimify.tech/">
+  <img src="https://img.shields.io/badge/-Portfolio-000?style=flat&logo=fontawesome&logoColor=white&logo=globe">
+</a>
+  <a href="https://www.linkedin.com/in/ibrahimify/">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white">
   </a>
-  <a href="mailto:your-email@gmail.com">
+  <a href="mailto:muhammadibrahimshoeb@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white">
   </a>
 </p>
