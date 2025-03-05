@@ -1,6 +1,5 @@
 <!-- Header -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Brandbe+Sans+Serif+&weight=800&size=35&duration=3000&pause=500&multiline=true&width=650&height=140&lines=%24+whoami;Muhammad+Ibrahim+Shoeb" alt="Typing SVG" /></a>
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Brandbe+Sans+Serif+&weight=800&size=35&duration=3000&pause=500&color=30A14E&multiline=true&width=650&height=140&lines=%24+whoami;Muhammad+Ibrahim+Shoeb)](https://git.io/typing-svg)
 <!-- Icons -->
 <p align="center">
   <a href="https://www.linkedin.com/in/muhamshoeb/">
