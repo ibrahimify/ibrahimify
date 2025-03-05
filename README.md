@@ -4,7 +4,7 @@
 <!-- Social Links -->
 <p align="left">
   <a href="https://ibrahimify.tech/">
-  <img src="https://img.shields.io/badge/-Portfolio-000?style=flat&logo=fontawesome&logoColor=white&logo=globe">
+  <img src="https://img.shields.io/badge/-Portfolio-000?style=flat&logo=logoColor=white&logo=globe">
 </a>
   <a href="https://www.linkedin.com/in/ibrahimify/">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white">
