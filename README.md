@@ -17,9 +17,9 @@
 ---
 
 ### **About Me**
-    **Software Engineer** passionate about **urban tech & sustainable solutions**  
-    **Hackathon Winner** – Most Sustainable Idea @ **Innovation Week & Hackathon**  
-    **BME Student** | **Intern @ Wizz Air** | **Mentor @ HÖOK**  
+   **Software Engineer** passionate about **urban tech & sustainable solutions**  
+   **Hackathon Winner** – Most Sustainable Idea @ **Innovation Week & Hackathon**  
+   **BME Student** | **Intern @ Wizz Air** | **Mentor @ HÖOK**  
 
 ---
 
