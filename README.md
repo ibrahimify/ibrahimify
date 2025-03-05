@@ -16,27 +16,6 @@
 
 ---
 
-### **Tech & Tools**
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,java,python,sql,git,github,figma" />
-</p>
-
----
-
-### **Projects**
-- 🚀 [TransPoint](https://github.com/muhamshoeb/transpoint) – Sustainable public transport app (Hackathon Winner 🏆)
-- ⚡ [MORSE](https://github.com/muhamshoeb/morse) – Command-line Morse code converter
-
----
-
-### **GitHub Stats**
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muhamshoeb&show_icons=true&theme=radical&hide_border=true" height="150">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhamshoeb&theme=radical&hide_border=true" height="150">
-</p>
-
----
-
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ibrahimify/ibrahimify/output/github-snake-dark.svg" />
