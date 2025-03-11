@@ -3,7 +3,8 @@
 
 
 **>** Software Engineering Student @ **BME** | Intern @ **Wizz Air** | International Student Mentor @ **HÖOK**   
-**>** Hackathon Winner – Most Sustainable Idea @ **UPM, Madrid EELISA Hackathon**  
+**>** 1st Place at Most Sustsainable Hackathon
+Hackathon Winner – Most Sustainable Idea @ **UPM, Madrid EELISA Hackathon**  
 
 <!-- Social Links -->
 ## Socials:
