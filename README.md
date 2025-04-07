@@ -4,6 +4,7 @@
 
 **>** Software Engineering Student @ **BME** | Intern @ **Wizz Air** | International Student Mentor @ **HÖOK**   
 **>** Hackathon Winner – Most Sustainable Idea @ **UPM, Madrid EELISA Hackathon**
+**>** If you want to get in contact, email me at ibrahimify.io@gmail.com 
 
 <!-- Social Links -->
 ## Socials:
