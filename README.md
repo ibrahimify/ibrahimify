@@ -21,4 +21,3 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/ibrahimify/ibrahimify/output/github-snake.svg" />
 </picture>
 
-
