@@ -7,7 +7,7 @@
 
 <!-- Social Links -->
 ## Socials:
-[![🌍 Portfolio](https://img.shields.io/badge/Portfolio-30A14E?logo=internet-explorer&logoColor=white)](https://ibrahimify.tech)  
+[![🌍 Portfolio](https://img.shields.io/badge/Portfolio-30A14E?logo=internet-explorer&logoColor=white)](https://ibrahimify.dev)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ibrahimify/) 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:muhammadibrahimshoeb@gmail.com) 
 [![Spotify](https://img.shields.io/badge/Spotify-1DB954?logo=spotify&logoColor=white)](https://open.spotify.com/user/vhuo8dv4qwqo2ms6eitsgw955)
