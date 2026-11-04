@@ -4,9 +4,9 @@
 
 **>** Software Engineering Student @ **BME** | Security Trainee @ **Wizz Air** | International Student Mentor @ **HÖOK**   
 
-**>** 🥇 1st Place – Most Sustainable Idea @ **UPM Madrid EELISA Hackathon**  
-**>** 🥈 2nd Place – Wizz Youth Challenge @ **Wizz Air, Hungary**  
-**>** 🥉 3rd Place – Robotics & AI Hackathon 2026 @ **Siemens Healthineers, Erlangen, Germany**
+**>** 1st Place – Most Sustainable Idea @ **UPM Madrid EELISA Hackathon**  
+**>** 2nd Place – Wizz Youth Challenge @ **Wizz Air, Hungary**  
+**>** 3rd Place – Robotics & AI Hackathon 2026 @ **Siemens Healthineers, Erlangen, Germany**
 <!-- Social Links -->
 ## Socials:
 [![🌍 Portfolio](https://img.shields.io/badge/Portfolio-30A14E?logo=internet-explorer&logoColor=white)](https://ibrahimify.dev)  
